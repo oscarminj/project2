@@ -1,0 +1,12 @@
+httpx
+pillow
+faker
+numpy
+subprocess32
+python-dateutil
+pathlib
+requests
+scipy
+python-dotenv
+fastapi
+uvicorn
